@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#about{
+    background-color: #eff4fd;
+    height:80vh;
+    width: 70vw;
+    margin:6xpx auto;
+    display:grid;
+    justify-content: center;
+    padding: 10px;
+    
+}
+.aboutme{
+    font-size: 60px;
+    font-family: serif;
+    text-align: center;
+    
+}
+.info{
+    font-size: 25px;
+    font-family: Arial;
+    display: grid;
+    justify-content: center;
+    margin-left:70px;
+    margin-top: 10px;
+    padding: 25px;
+}
+
